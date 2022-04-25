@@ -18,3 +18,5 @@ while len(new_list) < 5:
 print('Thank you')
 for i in new_list:
     print(i)
+
+    
